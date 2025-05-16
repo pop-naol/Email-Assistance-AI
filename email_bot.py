@@ -1,8 +1,5 @@
-#Group 4 -- memebrs 
-# 1. Naols Sime ------------------- DBU1501391
-# 2. Selman Mohammed -------------- DBU1501463
-# 3. Shegaw Afle ------------------ DBU1501469
-# 4. Eyerusalenm Habtegebreal ----- DBU1501186
+#made by @naolsime
+
 
 
 import os
